@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DeepKlarity - AI Wiki Quiz Generator",
+  "description": "An application that accepts a Wikipedia article URL and uses the Gemini API to automatically generate a quiz based on the article's content. Users can view a history of past quizzes.",
+  "requestFramePermissions": []
+}
